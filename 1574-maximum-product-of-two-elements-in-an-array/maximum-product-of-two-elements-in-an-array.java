@@ -1,5 +1,6 @@
 class Solution {
     public int maxProduct(int[] nums) {
+        //time complexity is O(n);
         int max1=0;
         int max2=0;
         for(int i=0; i<nums.length;i++){
